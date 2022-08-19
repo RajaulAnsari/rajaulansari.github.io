@@ -1,0 +1,42 @@
+html{
+    background-color: #0F172A;
+    height: max-content;
+    width: 100%;
+}
+
+.greetings{
+    margin-top: 2%;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.about{
+    margin-top: 5%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #4CAF50;
+}
+.myself p{
+    margin-left: 43%;
+    color: white;
+    margin-top: 6%;
+    margin-right: 5%;
+    
+}
+.myself img{
+    margin-left: 5%;
+    float: left;
+    width: 33.33%;
+}
+.achievements{
+    margin-top: 5%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #4CAF50;
+}
+.achi{
+    margin-top: 5%;
+    margin-left: 20%;
+    color: white;
+}

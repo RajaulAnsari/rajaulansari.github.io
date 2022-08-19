@@ -1,0 +1,29 @@
+body{
+    font-family: verdana,arial,helvetica,sans-serif;
+    font-size: 12px;
+    background-color: #CCFFFF;
+}
+h1{
+    font-size: 14px;
+    font-variant: small-caps;
+    color: #ff0000;
+    background-color: #00ff00;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 2;
+}
+
+p:first-letter{ font-size: 200%;}
+.income { background-color: #cccccc;}
+.expenses{background-color: #ff0000;}
+.profit{background-color: #ffff00;}
+#budgetsummary {
+    background-color: #ffffff;
+    border: dotted;
+    padding: 20px;
+    width: 500px;
+    position: absolute;
+    top: 0px;
+    z-index: 1;
+}
