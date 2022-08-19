@@ -1,0 +1,55 @@
+#container{
+    width: 1080px;
+    height: 900px;
+    margin: auto;
+  }
+.header{
+    font-family: Verdana, sans-serif;
+    background-color: #ccaa66;
+    height: 80px;
+    border-style: solid;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+  
+  }
+.nav{
+    font-family: Verdana, sans-serif;
+    background-color: #E8D882;
+    width: 200px;
+    height: 223px;
+    padding: 20px;
+    border-left: solid;
+  }
+a{
+    text-decoration: none;
+}
+.description{
+    font-family: Verdana;
+    background: #f1e8b0;
+    width: 814px;
+    position:relative;
+    padding-top: 11px;
+    padding-left: 20px;
+    top: -263px;
+    left: 242px;
+    background-image: url('stinky.png');
+    border-right: solid;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position: 530px;
+  }
+.footer{
+    font-family: Verdana;
+    font-style: italic;
+    font-size: 14;
+    background-color: #ccaa66;
+    height: 80px;
+    border-style: solid;
+    text-align: center;
+    top: -263px;
+    position: relative;
+    padding-top: 28px;
+  }
+  
